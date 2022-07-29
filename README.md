@@ -27,6 +27,7 @@ My name is Nadim Mansuri.BTech 2021 batch passout, looking for opportunity in th
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png" alt="kotlin" width="60" height="40">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Android_logo_2.svg/120px-Android_logo_2.svg.png" alt="android" width="40" height="40">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40">
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40">
 
 </p>
 
@@ -50,7 +51,7 @@ My name is Nadim Mansuri.BTech 2021 batch passout, looking for opportunity in th
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/nadim-mansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nadim-mansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadim Mansuri" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16767737/devnadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/nadim2242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/nadim2242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadim Mansuri" height="30" width="40" /></a>
 
