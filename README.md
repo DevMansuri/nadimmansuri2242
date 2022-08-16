@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hello folks!👋
 
-My name is Nadim Mansuri.BTech 2021 batch passout, looking for opportunity in the Software development world.
+My name is Nadim Mansuri.I am currently working in "Softude by Systamatix".
 
 ## 🔧 Langueages & Tools
 <p align='left'>
@@ -44,6 +44,9 @@ My name is Nadim Mansuri.BTech 2021 batch passout, looking for opportunity in th
 </a>
 <a href="https://github.com/nadimmansuri2242/nadimmansuri2242">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nadimmansuri2242&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/nadimmansuri2242/nadimmansuri2242">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nadimmansuri2242&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/nadimmansuri2242/nadimmansuri2242">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nadimmansuri2242&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
