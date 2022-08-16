@@ -39,9 +39,6 @@ My name is Nadim Mansuri.I am currently working in "Softude by Systamatix".
 <a href="https://github.com/nadimmansuri2242/nadimmansuri2242">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nadimmansuri2242&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
 </a>
-<a href="https://github.com/nadimmansuri2242/nadimmansuri2242">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nadimmansuri2242&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
 ## 🔗 &nbsp;**Connect with me**
